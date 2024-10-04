@@ -1,4 +1,4 @@
-# Web-dev-basics-HTML1
+# Web-dev-basics-HTML
 This project provides a simple introduction to HTML, the foundational language for building web pages.
 
 Features
